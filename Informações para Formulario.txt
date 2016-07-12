@@ -1,0 +1,14 @@
+Informações para Formulario
+Nome: name = nome
+Senha: name = senha
+E-mail: name = email
+Sexo: name = sexo
+Telefone: name = telefone
+Celular: name = celular
+Endereço: name = endereco
+Cidade: name = cidade
+Estado: name = estado
+Senha: name = senha
+Confirmar Senha
+
+Enviar
